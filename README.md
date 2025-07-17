@@ -19,3 +19,8 @@ This project focuses on collecting and analyzing YouTube trending video data usi
 - matplotlib
 - seaborn
 - google-api-python-client
+
+## 🏃 How to run
+
+- Execute collecting.py
+- Explore analysis.ipynb
